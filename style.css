@@ -1,1 +1,70 @@
+* {
+	margin: 0;
+	padding: 0;
+}
 
+.navbar {
+	border: 3px solid black;
+	background-color: gray;
+	color: black;
+	border-radius: 0px;
+}
+
+body {
+	background-color: white;
+	color: black;
+	margin-bottom: 50px;
+}
+
+.container {
+	width: 90%;
+	background-color: gray;
+	padding: 15px
+}
+
+/* Main Header */
+.text-center {
+	font-size: 30px;
+}
+
+.main-header {
+	padding: 30px;
+	font-family: montserrat;
+	font-weight: bold;
+}
+
+/* Chicken */
+
+h2 {
+	text-align: center;
+	font-family: lato;
+	font-weight: bold;
+	margin-bottom: 30px;
+}
+
+p {
+	font-family: lato;
+}
+
+hr {
+	border-top: 3px solid black !important;
+}
+
+#myNavbar ul li a {
+	color: black;
+}
+
+.navbar-brand {
+	font-size: 30px;
+	color: black !important;
+	font-family: lato;
+	font-weight: bold;
+}
+
+#chicken-content {
+	padding: 5px 30px;
+}
+
+button.navbar-toggle {
+	border: 3px solid black !important;
+}
